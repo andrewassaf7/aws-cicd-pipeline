@@ -1,4 +1,4 @@
-# testing terraform
+# testing terraform test
 terraform {
   required_providers {
     aws = {
